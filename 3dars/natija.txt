@@ -1,0 +1,6 @@
+add_num 1-marta chaqirildi. Natija: 13
+add_num 2-marta chaqirildi. Natija: 5
+add_num 1-marta chaqirildi. Natija: 13
+add_num 2-marta chaqirildi. Natija: 5
+multiply 1-marta chaqirildi. Natija: 48
+multiply 2-marta chaqirildi. Natija: 63
