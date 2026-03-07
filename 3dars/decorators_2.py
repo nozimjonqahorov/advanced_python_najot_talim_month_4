@@ -69,21 +69,6 @@
 # I want to be decorated!! 
 # I need some extra functionality!! 
 # Some extra code, after the original function.
- 
-
-def new_decorator(original_func):
-    def wrap_func():
-        print("Some extra code, before the original function.")
-        original_func()
-        print("Some extra code, after the original function.")
-    return wrap_func
-
-@new_decorator
-def func_needs_decorator():
-    print("I want to be decorated!!")
-    print("I need some extra functionality!!")
-
-func_needs_decorator()
 
 # In professional code,  we do not just use decorators to print text. Mostly decorators are used for:
 
